@@ -1,7 +1,6 @@
 ## ng-show-variation
 
-An easy directive that shows and hides elements based on Optimizely variation buckets.
-
+An easy angular directive that shows and hides elements based on Optimizely variation buckets.
 
 ## Usage
 
